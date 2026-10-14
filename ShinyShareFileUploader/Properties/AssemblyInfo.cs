@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ShinyShareFileUploader")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Jakub Macek; jakubmacek.cz")]
+[assembly: AssemblyCompany("jakubmacek.cz")]
 [assembly: AssemblyProduct("ShinyShareFileUploader")]
 [assembly: AssemblyCopyright("Copyright © Jakub Macek 2017")]
 [assembly: AssemblyTrademark("")]
